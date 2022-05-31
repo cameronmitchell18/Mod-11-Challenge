@@ -8,7 +8,7 @@ The purpose of this analysis was for Dana (a respected journalist) to be able to
 
 To begin, we have a short summary posing a question that asks "Are we alone in the Universe?" and gives a little bit of background on what questions we are trying to solve through this data and web page. 
 
-![Background Summary!](/static/images/summary.png "Short Summary")
+![Background Summary!](/static/images/Summary.png "Short Summary")
 
 Next, we see on the far left hand of the page you can filter by certain critera based off what you are interested in seeing. For example, lets say you were interested in seeing if there have been any UFO Sightings in Bonita California. The filters in the image below allow you to search for that exact city and state. 
 
